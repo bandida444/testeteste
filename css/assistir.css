@@ -1,0 +1,21 @@
+
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-image: linear-gradient(to top, #993399, #e591e5);
+    
+}
+header > h1 {
+    text-align: center;
+}
+header > p {
+    text-align: center;
+}
+body{
+    background-color: pink;
+}
